@@ -10,7 +10,7 @@ const image=document.querySelector('img');
 const headericon=document.querySelector('header i');
 const arrowBack=document.querySelector("header i");
 /* this open weather api which i got it from open weather api   */
-let api=`ad64662edb8f9ad8ffec3b31f535cea5`;
+let api=``;
 /* we are adding eventlistener into inputunique variable which does select input box class   */
 inputunique.addEventListener("keyup",e=>{
 /*we are giving condition with parsing parameter which is e if key is equal to enter and textinput is not empty then this condition
